@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ris/PycharmProjects/pythonProject/USA-housing/src/mlruns/433955846515737087/42549e5ef430403ab15fc439d520eebc/artifacts
+end_time: 1678346829737
+entry_point_name: ''
+experiment_id: '433955846515737087'
+lifecycle_stage: active
+run_id: 42549e5ef430403ab15fc439d520eebc
+run_name: flawless-slug-975
+run_uuid: 42549e5ef430403ab15fc439d520eebc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678346789323
+status: 3
+tags: []
+user_id: ris

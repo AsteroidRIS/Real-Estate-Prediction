@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ris/PycharmProjects/pythonProject/USA-housing/src/mlruns/433955846515737087/1c7c5fb2314a410ab7d5356abcf6c34a/artifacts
+end_time: 1678425773423
+entry_point_name: ''
+experiment_id: '433955846515737087'
+lifecycle_stage: active
+run_id: 1c7c5fb2314a410ab7d5356abcf6c34a
+run_name: adaptable-quail-45
+run_uuid: 1c7c5fb2314a410ab7d5356abcf6c34a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678425713757
+status: 3
+tags: []
+user_id: ris

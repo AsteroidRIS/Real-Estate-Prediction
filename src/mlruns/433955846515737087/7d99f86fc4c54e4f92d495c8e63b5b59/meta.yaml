@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ris/PycharmProjects/pythonProject/USA-housing/src/mlruns/433955846515737087/7d99f86fc4c54e4f92d495c8e63b5b59/artifacts
+end_time: 1678432687881
+entry_point_name: ''
+experiment_id: '433955846515737087'
+lifecycle_stage: active
+run_id: 7d99f86fc4c54e4f92d495c8e63b5b59
+run_name: peaceful-crow-563
+run_uuid: 7d99f86fc4c54e4f92d495c8e63b5b59
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678432686825
+status: 4
+tags: []
+user_id: ris

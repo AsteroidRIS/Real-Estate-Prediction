@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ris/PycharmProjects/pythonProject/USA-housing/src/mlruns/433955846515737087/da30aff6da254ad2b3efd0400371de7d/artifacts
+end_time: 1678432641142
+entry_point_name: ''
+experiment_id: '433955846515737087'
+lifecycle_stage: active
+run_id: da30aff6da254ad2b3efd0400371de7d
+run_name: enchanting-hen-567
+run_uuid: da30aff6da254ad2b3efd0400371de7d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678432638488
+status: 3
+tags: []
+user_id: ris

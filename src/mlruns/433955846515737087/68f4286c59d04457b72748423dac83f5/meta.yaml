@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ris/PycharmProjects/pythonProject/USA-housing/src/mlruns/433955846515737087/68f4286c59d04457b72748423dac83f5/artifacts
+end_time: 1678425773423
+entry_point_name: ''
+experiment_id: '433955846515737087'
+lifecycle_stage: active
+run_id: 68f4286c59d04457b72748423dac83f5
+run_name: inquisitive-crab-323
+run_uuid: 68f4286c59d04457b72748423dac83f5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678425713757
+status: 3
+tags: []
+user_id: ris

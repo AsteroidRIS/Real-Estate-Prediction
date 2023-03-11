@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ris/PycharmProjects/pythonProject/USA-housing/src/mlruns/433955846515737087/a7a2952ccd5348df95c0cf3c7b7fb446/artifacts
+end_time: 1678432847229
+entry_point_name: ''
+experiment_id: '433955846515737087'
+lifecycle_stage: active
+run_id: a7a2952ccd5348df95c0cf3c7b7fb446
+run_name: bald-cub-669
+run_uuid: a7a2952ccd5348df95c0cf3c7b7fb446
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678432775927
+status: 3
+tags: []
+user_id: ris

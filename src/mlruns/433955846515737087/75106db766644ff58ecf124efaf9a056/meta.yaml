@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ris/PycharmProjects/pythonProject/USA-housing/src/mlruns/433955846515737087/75106db766644ff58ecf124efaf9a056/artifacts
+end_time: 1678425874306
+entry_point_name: ''
+experiment_id: '433955846515737087'
+lifecycle_stage: active
+run_id: 75106db766644ff58ecf124efaf9a056
+run_name: overjoyed-seal-533
+run_uuid: 75106db766644ff58ecf124efaf9a056
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678425713757
+status: 3
+tags: []
+user_id: ris

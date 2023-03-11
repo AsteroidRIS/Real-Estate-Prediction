@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ris/PycharmProjects/pythonProject/USA-housing/src/mlruns/433955846515737087/800319227b964db29232e0d23c1a6192/artifacts
+end_time: 1678432847229
+entry_point_name: ''
+experiment_id: '433955846515737087'
+lifecycle_stage: active
+run_id: 800319227b964db29232e0d23c1a6192
+run_name: debonair-wren-252
+run_uuid: 800319227b964db29232e0d23c1a6192
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678432775927
+status: 3
+tags: []
+user_id: ris

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ris/PycharmProjects/pythonProject/USA-housing/src/mlruns/433955846515737087/aaed901c52d242f1971cd68c3cfcd717/artifacts
+end_time: 1678432775834
+entry_point_name: ''
+experiment_id: '433955846515737087'
+lifecycle_stage: active
+run_id: aaed901c52d242f1971cd68c3cfcd717
+run_name: amusing-skunk-369
+run_uuid: aaed901c52d242f1971cd68c3cfcd717
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678432733653
+status: 3
+tags: []
+user_id: ris

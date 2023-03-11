@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ris/PycharmProjects/pythonProject/USA-housing/src/mlruns/433955846515737087/dbcc877b80ed4c34a48ee8e92b36adb5/artifacts
+end_time: 1678346829737
+entry_point_name: ''
+experiment_id: '433955846515737087'
+lifecycle_stage: active
+run_id: dbcc877b80ed4c34a48ee8e92b36adb5
+run_name: monumental-bat-983
+run_uuid: dbcc877b80ed4c34a48ee8e92b36adb5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678346789323
+status: 3
+tags: []
+user_id: ris

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ris/PycharmProjects/pythonProject/USA-housing/src/mlruns/433955846515737087/df821a617e084a75b719d04b37c5417a/artifacts
+end_time: 1678432686576
+entry_point_name: ''
+experiment_id: '433955846515737087'
+lifecycle_stage: active
+run_id: df821a617e084a75b719d04b37c5417a
+run_name: marvelous-worm-653
+run_uuid: df821a617e084a75b719d04b37c5417a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678432641290
+status: 3
+tags: []
+user_id: ris

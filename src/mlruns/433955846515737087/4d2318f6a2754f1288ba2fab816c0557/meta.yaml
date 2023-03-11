@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ris/PycharmProjects/pythonProject/USA-housing/src/mlruns/433955846515737087/4d2318f6a2754f1288ba2fab816c0557/artifacts
+end_time: 1678432686734
+entry_point_name: ''
+experiment_id: '433955846515737087'
+lifecycle_stage: active
+run_id: 4d2318f6a2754f1288ba2fab816c0557
+run_name: shivering-ox-18
+run_uuid: 4d2318f6a2754f1288ba2fab816c0557
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678432641290
+status: 3
+tags: []
+user_id: ris

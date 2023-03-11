@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ris/PycharmProjects/pythonProject/USA-housing/src/mlruns/433955846515737087/9d9324ea1f7c4208b7a91486fefc9cd5/artifacts
+end_time: 1678343847738
+entry_point_name: ''
+experiment_id: '433955846515737087'
+lifecycle_stage: active
+run_id: 9d9324ea1f7c4208b7a91486fefc9cd5
+run_name: defiant-dog-502
+run_uuid: 9d9324ea1f7c4208b7a91486fefc9cd5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678343745837
+status: 4
+tags: []
+user_id: ris

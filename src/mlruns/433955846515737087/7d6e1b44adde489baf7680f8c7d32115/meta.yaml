@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ris/PycharmProjects/pythonProject/USA-housing/src/mlruns/433955846515737087/7d6e1b44adde489baf7680f8c7d32115/artifacts
+end_time: 1678343847017
+entry_point_name: ''
+experiment_id: '433955846515737087'
+lifecycle_stage: active
+run_id: 7d6e1b44adde489baf7680f8c7d32115
+run_name: rebellious-calf-419
+run_uuid: 7d6e1b44adde489baf7680f8c7d32115
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678343745837
+status: 3
+tags: []
+user_id: ris

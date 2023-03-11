@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ris/PycharmProjects/pythonProject/USA-housing/src/mlruns/433955846515737087/0c75aafb42224877b5209250a1f85c52/artifacts
+end_time: 1678432847229
+entry_point_name: ''
+experiment_id: '433955846515737087'
+lifecycle_stage: active
+run_id: 0c75aafb42224877b5209250a1f85c52
+run_name: placid-rook-243
+run_uuid: 0c75aafb42224877b5209250a1f85c52
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678432775927
+status: 3
+tags: []
+user_id: ris

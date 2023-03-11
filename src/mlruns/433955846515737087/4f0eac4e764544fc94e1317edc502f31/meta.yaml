@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ris/PycharmProjects/pythonProject/USA-housing/src/mlruns/433955846515737087/4f0eac4e764544fc94e1317edc502f31/artifacts
+end_time: 1678432457225
+entry_point_name: ''
+experiment_id: '433955846515737087'
+lifecycle_stage: active
+run_id: 4f0eac4e764544fc94e1317edc502f31
+run_name: redolent-cow-15
+run_uuid: 4f0eac4e764544fc94e1317edc502f31
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678432454907
+status: 3
+tags: []
+user_id: ris

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ris/PycharmProjects/pythonProject/USA-housing/src/mlruns/433955846515737087/5c97030825e14ccc9dfe04c5aa4c7f2f/artifacts
+end_time: 1678425874306
+entry_point_name: ''
+experiment_id: '433955846515737087'
+lifecycle_stage: active
+run_id: 5c97030825e14ccc9dfe04c5aa4c7f2f
+run_name: auspicious-fly-853
+run_uuid: 5c97030825e14ccc9dfe04c5aa4c7f2f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678425713757
+status: 3
+tags: []
+user_id: ris

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ris/PycharmProjects/pythonProject/USA-housing/src/mlruns/433955846515737087/ac19dc53e3674865af8e94e887e85f9c/artifacts
+end_time: 1678432686576
+entry_point_name: ''
+experiment_id: '433955846515737087'
+lifecycle_stage: active
+run_id: ac19dc53e3674865af8e94e887e85f9c
+run_name: peaceful-sow-173
+run_uuid: ac19dc53e3674865af8e94e887e85f9c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678432641290
+status: 3
+tags: []
+user_id: ris

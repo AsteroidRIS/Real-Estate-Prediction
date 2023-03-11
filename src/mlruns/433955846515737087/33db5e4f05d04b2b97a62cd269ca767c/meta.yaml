@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ris/PycharmProjects/pythonProject/USA-housing/src/mlruns/433955846515737087/33db5e4f05d04b2b97a62cd269ca767c/artifacts
+end_time: 1678343786513
+entry_point_name: ''
+experiment_id: '433955846515737087'
+lifecycle_stage: active
+run_id: 33db5e4f05d04b2b97a62cd269ca767c
+run_name: stately-sow-119
+run_uuid: 33db5e4f05d04b2b97a62cd269ca767c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678343745837
+status: 3
+tags: []
+user_id: ris

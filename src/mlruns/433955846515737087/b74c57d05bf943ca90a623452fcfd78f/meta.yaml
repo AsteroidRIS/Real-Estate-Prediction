@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ris/PycharmProjects/pythonProject/USA-housing/src/mlruns/433955846515737087/b74c57d05bf943ca90a623452fcfd78f/artifacts
+end_time: 1678346891561
+entry_point_name: ''
+experiment_id: '433955846515737087'
+lifecycle_stage: active
+run_id: b74c57d05bf943ca90a623452fcfd78f
+run_name: burly-grouse-186
+run_uuid: b74c57d05bf943ca90a623452fcfd78f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678346789323
+status: 3
+tags: []
+user_id: ris

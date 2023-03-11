@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ris/PycharmProjects/pythonProject/USA-housing/src/mlruns/433955846515737087/c0cedcd241524d198d6e344a08bd5bc4/artifacts
+end_time: 1678432848219
+entry_point_name: ''
+experiment_id: '433955846515737087'
+lifecycle_stage: active
+run_id: c0cedcd241524d198d6e344a08bd5bc4
+run_name: funny-bee-169
+run_uuid: c0cedcd241524d198d6e344a08bd5bc4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678432775927
+status: 3
+tags: []
+user_id: ris
