@@ -1,6 +1,6 @@
-artifact_location: file:///home/ris/PycharmProjects/pythonProject/USA-housing/src/mlruns/0
-creation_time: 1678342944138
+artifact_location: mlflow-artifacts:/0
+creation_time: 1678797460591
 experiment_id: '0'
-last_update_time: 1678342944138
+last_update_time: 1678797460591
 lifecycle_stage: active
 name: Default

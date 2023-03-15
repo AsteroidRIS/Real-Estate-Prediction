@@ -1,0 +1,33 @@
+[2023-03-14T15:11:26.509+0530] {processor.py:153} INFO - Started process (PID=5153) to work on /home/ris/PycharmProjects/pythonProject/USA-housing/dags/pipline.py
+[2023-03-14T15:11:26.511+0530] {processor.py:743} INFO - Processing file /home/ris/PycharmProjects/pythonProject/USA-housing/dags/pipline.py for tasks to queue
+[2023-03-14T15:11:26.513+0530] {logging_mixin.py:137} INFO - [2023-03-14T15:11:26.512+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/ris/PycharmProjects/pythonProject/USA-housing/dags/pipline.py
+[2023-03-14T15:11:27.321+0530] {logging_mixin.py:137} INFO - data uploaded!
+[2023-03-14T15:11:28.749+0530] {logging_mixin.py:137} INFO - [2023-03-14T15:11:28.742+0530] {dagbag.py:343} ERROR - Failed to import: /home/ris/PycharmProjects/pythonProject/USA-housing/dags/pipline.py
+Traceback (most recent call last):
+  File "/home/ris/PycharmProjects/pythonProject/USA-housing/venv/lib/python3.10/site-packages/airflow/models/dagbag.py", line 339, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/ris/PycharmProjects/pythonProject/USA-housing/dags/pipline.py", line 5, in <module>
+    from utils.pre_processing import pre_process
+  File "/home/ris/PycharmProjects/pythonProject/USA-housing/dags/utils/pre_processing.py", line 99, in <module>
+    df = load_data('/home/ris/PycharmProjects/pythonProject/USA-housing/data/train_validate.csv')
+  File "/home/ris/PycharmProjects/pythonProject/USA-housing/dags/utils/load.py", line 4, in load_data
+    df = pd.read_csv(path, on_bad_lines='skip')
+  File "/home/ris/PycharmProjects/pythonProject/USA-housing/venv/lib/python3.10/site-packages/pandas/util/_decorators.py", line 211, in wrapper
+    return func(*args, **kwargs)
+  File "/home/ris/PycharmProjects/pythonProject/USA-housing/venv/lib/python3.10/site-packages/pandas/util/_decorators.py", line 331, in wrapper
+    return func(*args, **kwargs)
+  File "/home/ris/PycharmProjects/pythonProject/USA-housing/venv/lib/python3.10/site-packages/pandas/io/parsers/readers.py", line 950, in read_csv
+    return _read(filepath_or_buffer, kwds)
+  File "/home/ris/PycharmProjects/pythonProject/USA-housing/venv/lib/python3.10/site-packages/pandas/io/parsers/readers.py", line 605, in _read
+    parser = TextFileReader(filepath_or_buffer, **kwds)
+  File "/home/ris/PycharmProjects/pythonProject/USA-housing/venv/lib/python3.10/site-packages/pandas/io/parsers/readers.py", line 1442, in __init__
+    self._engine = self._make_engine(f, self.engine)
+  File "/home/ris/PycharmProjects/pythonProject/USA-housing/venv/lib/python3.10/site-packages/pandas/io/parsers/readers.py", line 1735, in _make_engine
+    self.handles = get_handle(
+  File "/home/ris/PycharmProjects/pythonProject/USA-housing/venv/lib/python3.10/site-packages/pandas/io/common.py", line 856, in get_handle
+    handle = open(
+FileNotFoundError: [Errno 2] No such file or directory: '/home/ris/PycharmProjects/pythonProject/USA-housing/data/train_validate.csv'
+[2023-03-14T15:11:28.750+0530] {processor.py:755} WARNING - No viable dags retrieved from /home/ris/PycharmProjects/pythonProject/USA-housing/dags/pipline.py
+[2023-03-14T15:11:28.776+0530] {processor.py:175} INFO - Processing /home/ris/PycharmProjects/pythonProject/USA-housing/dags/pipline.py took 2.274 seconds
