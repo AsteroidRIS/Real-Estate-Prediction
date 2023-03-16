@@ -14,9 +14,13 @@ warnings.filterwarnings("ignore")
 
 import mlflow
 import mlflow.sklearn
+import socket
+
+
+
 
 mlflow.tracking.set_tracking_uri("http://127.0.0.1:5000/")
-mlflow.set_experiment('USA-Housing')
+mlflow.set_experiment('USA-Housing-1')
 
 
 def save_model(model, file_name):

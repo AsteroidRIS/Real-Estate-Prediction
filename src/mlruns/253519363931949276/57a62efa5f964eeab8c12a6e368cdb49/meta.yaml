@@ -1,5 +1,5 @@
 artifact_uri: mlflow-artifacts:/253519363931949276/57a62efa5f964eeab8c12a6e368cdb49/artifacts
-end_time: null
+end_time: 1678797649493
 entry_point_name: ''
 experiment_id: '253519363931949276'
 lifecycle_stage: active
@@ -10,6 +10,6 @@ source_name: ''
 source_type: 4
 source_version: ''
 start_time: 1678797602851
-status: 1
+status: 3
 tags: []
 user_id: ris

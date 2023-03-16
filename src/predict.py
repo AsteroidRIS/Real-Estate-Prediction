@@ -51,9 +51,9 @@ if __name__ == "__main__":
 
     print('encoded dict train_data',encoded_dict)
 
-
     model_path = "/home/ris/PycharmProjects/pythonProject/USA-housing/models/knearest.pickle"
     saved_model = joblib.load(model_path)
+
     test_path = '/home/ris/PycharmProjects/pythonProject/USA-housing/data/test.csv'
     test_df = load_data(test_path)
     test_input = preprocess_and_predict(test_df, encoded_dict)
